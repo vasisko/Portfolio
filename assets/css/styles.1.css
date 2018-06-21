@@ -23,6 +23,21 @@ h2 {
     font-family: 'Della Respira', serif;
 
     }
+.portfolioTitle {
+
+}
+.backhome {
+    position: relative;
+    top: -40px;
+    text-align: left;
+}
+@media only screen and (max-width: 767px) {
+   .backhome {
+       position: relative;
+       top: 0px;
+       text-align: center;
+   } 
+}
 h3 {
     color: #999;
     font-family: 'Della Respira', serif;
@@ -39,18 +54,17 @@ h4 {
 }
 a.aboutLinks { 
     color: #fd795c; 
-    text-shadow: 1px 1px gray;
+    /*text-shadow: 1px 1px gray;*/
 }
 .card-text { font-size: .8rem;}
 .mailLink { color: black;} 
-
 .card { 
     background-color:#b5e3e1;
     width: 16rem;
     justify-content: center;
     }
 
-img .card-img-top { width: 120px;}
+img .card-img-top { width: 250px;}
 
 .navback {
     color: #fd795c;
@@ -60,3 +74,5 @@ img .card-img-top { width: 120px;}
 
 .card-text a {color: #000;
 font-weight: 200;}
+
+
