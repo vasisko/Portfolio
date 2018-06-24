@@ -11,6 +11,7 @@ body {
     color: black;
     border-bottom: solid black 1px;
 }
+
 h1 {
     font-size: 3rem;
     font-family: 'Della Respira', serif;
@@ -49,12 +50,13 @@ h4 {
     font-size: 1.2rem;
 }
 .portfolio {
-    background-color:#daf1f0;
-    border-top: solid 1px black;
+    margin: auto;
+    max-width: 1200px;
+    
 }
 a.aboutLinks { 
     color: #fd795c; 
-    /*text-shadow: 1px 1px gray;*/
+    text-shadow: 1px 1px gray;
 }
 .card-text { font-size: .8rem;}
 .mailLink { color: black;} 
@@ -68,6 +70,7 @@ a.aboutLinks {
 
 .navback {
     color: #fd795c;
+    text-shadow: 1px 1px gray;
     text-align: left;
 }
 .projectcard { width: 20rem;}

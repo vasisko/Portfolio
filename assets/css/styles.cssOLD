@@ -1,6 +1,6 @@
 body {
     font-family: 'Open Sans', sans-serif;
-    font-size: 16px;
+    font-size: 1rem;
     background-image: url("../imgs/symphony.png");
 
 }
@@ -13,6 +13,7 @@ body {
     border-bottom: solid black 1px;
     /*box-shadow: 0px 6px #fd795c;*/
 }
+
 h1 {
     font-size: 3rem;
     font-family: 'Della Respira', serif;
