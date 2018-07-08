@@ -1,6 +1,8 @@
-# Carolyn Vasisko: Current Portfolio 
+# Carolyn Vasisko
 
-## Full Stack Web Developer
+## Current Portfolio 
 
-## For questions or comments, please email me at carolyn.vasisko@gmail.com
+### Full Stack Web Developer
+
+### For questions or comments, please email me at carolyn.vasisko@gmail.com
 
