@@ -41,6 +41,17 @@ h4 {
     color: white;
     font-size: 1.2rem;
 }
+.whitelink {
+    color: white;
+    text-decoration: none;
+}
+.shifted {
+    padding-left: 25px;
+}
+.about {
+    padding-top: 20px;
+    border-top: 1px white solid';
+}
 .portfolio {
     margin: auto;
     
